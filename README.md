@@ -5,16 +5,13 @@ to compile just run: `make` on the current directory and then `./StorageControl`
 Or even just copy and paste this `make && ./StorageControl`. This should compile and run.
 
 # Dependencies
-   dependencies |           OS
-  ------------- | -------------------
-     Nano       |       Unix-like
-  ------------- | -------------------
-    Notepad     |        Windows
-  ------------- | -------------------
-     gcc        |  Unix-Like/Windows
-  ------------- | -------------------
-     make       |  Unix-like/Windows
-  ------------- | -------------------
+   dependencies |  Operational systems
+  ------------- | ---------------------
+  Nano          | Unix-like
+  Notepad       | Windows
+  gcc           | Unix-Like/Windows
+  make          | Unix-like/Windows
+ 
               
 # Main functionalities
   * Create files `.txt` to store the input given for the user;
