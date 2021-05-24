@@ -71,7 +71,7 @@ Ou somente copie e cole este comando `make && ./StorageControl`. Esse comando de
   * Por enquanto não é possível deletar um arquivo utilizando o progama;
   * Quando a opção para retornar ao menu principal é selecionada (***ALGUMAS VEZES***) a mensagem *Gostaria de voltar ao menu principal? [S]im / [N]ão* é mostrada duas vezes, então é necessário selecionar sua opção duas vezes. **NÃO FAÇA DIFERENTES ESCOLHAS DE UMA VEZ!! Como: na primeira vez voce seleciona `s` mas na segunda voce seleciona `n`**, isso resultará no possível travamento do sistema e até mesmo a parada forçada do mesmo.
  
-# Description of each files
+# Descrição de cada arquivo
 **~~Commo você talvez saiba, os arquivos .h são headers~~**
 
 * **ansi_escapes**: é responsável por entregar saídas de texto coloridas no windows e linux. (Atualmente não é necessário porque o programa não possui cores, mas no futuro provavelmente terá);
